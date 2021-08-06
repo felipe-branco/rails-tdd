@@ -1,0 +1,6 @@
+development:
+  weather_api:
+    api_key: ""
+test:
+  weather_api:
+    api_key: ""
